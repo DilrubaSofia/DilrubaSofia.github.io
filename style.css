@@ -1,11 +1,11 @@
 *{
-    background-color: teal;
+    background-color:mediumpurple;
 }
 .img{
     width: 50%;
     border-radius: 5%;
     object-fit: cover;
-    border-width: 10px;
+    border-width: 5px;
     border-color: maroon;
     border-style: solid;
 }
