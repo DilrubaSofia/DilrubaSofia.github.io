@@ -1,0 +1,23 @@
+*{
+    background-color: teal;
+}
+.img{
+    width: 50%;
+    border-radius: 5%;
+    object-fit: cover;
+    border-width: 10px;
+    border-color: maroon;
+    border-style: solid;
+}
+    
+.pwebsite{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.pwebsite-resume{
+    padding: 15px;
+    color: maroon;
+}
